@@ -39,7 +39,7 @@ A full-stack web application for managing and booking events. Built with the MER
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/HemaEzzat123/Event-Booking-System.git>
+git clone <https://github.com/HemaEzzat123/ATC_01123210676.git>
 cd event-booking-system
 ```
 
@@ -72,7 +72,7 @@ REACT_APP_API_URL=http://localhost:5000/api
 1. Start the backend server:
 ```bash
 cd backend
-npm start
+npm run dev
 ```
 
 2. Start the frontend development server:
