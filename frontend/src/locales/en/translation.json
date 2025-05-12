@@ -1,0 +1,154 @@
+{
+  "about": {
+    "title": "About EventHub",
+    "subtitle": "Your trusted platform for seamless event booking and management",
+    "mission": {
+      "title": "Our Mission",
+      "description": "At EventHub, we're dedicated to making event booking and management seamless and enjoyable. Our platform connects event organizers with attendees, creating memorable experiences for everyone involved."
+    },
+    "features": {
+      "title": "What We Offer",
+      "easyBooking": {
+        "title": "Easy Booking",
+        "description": "Simple and intuitive event booking process with instant confirmation"
+      },
+      "secure": {
+        "title": "Secure Platform",
+        "description": "Advanced security measures to protect your data and transactions"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Round-the-clock customer support to assist you with any queries"
+      },
+      "fast": {
+        "title": "Fast & Reliable",
+        "description": "Quick and efficient service with real-time updates and notifications"
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "We are a passionate team of event enthusiasts, developers, and customer service professionals working together to create the best event booking experience."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team for any questions or assistance",
+    "form": {
+      "title": "Send us a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully! We'll get back to you soon."
+    },
+    "info": {
+      "address": {
+        "title": "Our Location",
+        "content": "123 Event Street, City, Country"
+      },
+      "phone": {
+        "title": "Phone Number",
+        "content": "+1 234 567 890"
+      },
+      "email": {
+        "title": "Email Address",
+        "content": "contact@eventhub.com"
+      },
+      "hours": {
+        "title": "Business Hours",
+        "content": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 10:00 AM - 4:00 PM\nSunday: Closed"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Learn how we protect and handle your personal information",
+    "lastUpdated": "Last Updated: March 15, 2024",
+    "introduction": "At EventHub, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our event booking platform.",
+    "sections": {
+      "collection": {
+        "title": "Information We Collect",
+        "content": "We collect personal information such as your name, email address, phone number, and billing information when you create an account or make a booking. We also collect usage data to improve our services."
+      },
+      "usage": {
+        "title": "How We Use Your Information",
+        "content": "We use your information to process bookings, communicate with you about your events, send important updates, improve our services, and comply with legal obligations."
+      },
+      "sharing": {
+        "title": "Information Sharing",
+        "content": "We may share your information with event organizers, payment processors, and service providers. We do not sell your personal information to third parties."
+      },
+      "security": {
+        "title": "Data Security",
+        "content": "We implement appropriate security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure."
+      },
+      "cookies": {
+        "title": "Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to improve your browsing experience and analyze our website traffic. You can control cookies through your browser settings."
+      },
+      "rights": {
+        "title": "Your Rights",
+        "content": "You have the right to access, correct, or delete your personal information. You can also opt-out of marketing communications at any time."
+      },
+      "changes": {
+        "title": "Changes to Privacy Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of any material changes via email or through the platform."
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy, please contact us:",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "subtitle": "Please read these terms carefully before using our platform",
+    "lastUpdated": "Last Updated: March 15, 2024",
+    "introduction": "By accessing and using EventHub, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using this platform.",
+    "sections": {
+      "acceptance": {
+        "title": "Acceptance of Terms",
+        "content": "By using our platform, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+      },
+      "accounts": {
+        "title": "User Accounts",
+        "content": "You must provide accurate information when creating an account and maintain the security of your account. You are responsible for all activities under your account."
+      },
+      "bookings": {
+        "title": "Event Bookings",
+        "content": "All bookings are subject to availability and the event organizer's terms. You must provide accurate booking information and comply with the event's rules and regulations."
+      },
+      "payments": {
+        "title": "Payments and Fees",
+        "content": "Payment must be made in full at the time of booking. All fees are non-refundable unless otherwise stated in the event's cancellation policy."
+      },
+      "cancellations": {
+        "title": "Cancellations and Refunds",
+        "content": "Cancellation policies vary by event. Refunds are subject to the event organizer's policy and may be subject to processing fees."
+      },
+      "prohibited": {
+        "title": "Prohibited Activities",
+        "content": "You agree not to use the platform for any illegal purpose, violate any laws, infringe on others' rights, or interfere with the platform's operation."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "content": "EventHub shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of the platform."
+      },
+      "changes": {
+        "title": "Changes to Terms",
+        "content": "We reserve the right to modify these terms at any time. We will notify users of any material changes via email or through the platform."
+      }
+    },
+    "contact": {
+      "title": "Contact Information",
+      "content": "If you have any questions about these Terms of Service, please contact us:",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    }
+  }
+} 
